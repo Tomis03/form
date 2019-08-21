@@ -1,1 +1,1 @@
-# Simple login and registration form created in Vue and Vuetify
+## Simple login and registration form created using Vue and Vuetify
